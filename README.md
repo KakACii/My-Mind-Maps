@@ -1,2 +1,2 @@
 # My-Mind-Maps
-The mind maps maxed by me.
+The mind maps maded by me.
